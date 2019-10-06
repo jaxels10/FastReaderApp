@@ -1,0 +1,9 @@
+C:\Users\Jesper\source\repos\JesperFormAppTest\JesperFormAppTest\bin\Debug\JesperFormAppTest.exe
+C:\Users\Jesper\source\repos\JesperFormAppTest\JesperFormAppTest\bin\Debug\JesperFormAppTest.exe.config
+C:\Users\Jesper\source\repos\JesperFormAppTest\JesperFormAppTest\obj\Debug\JesperFormAppTest.csprojAssemblyReference.cache
+C:\Users\Jesper\source\repos\JesperFormAppTest\JesperFormAppTest\obj\Debug\JesperFormAppTest.Form1.resources
+C:\Users\Jesper\source\repos\JesperFormAppTest\JesperFormAppTest\obj\Debug\JesperFormAppTest.Properties.Resources.resources
+C:\Users\Jesper\source\repos\JesperFormAppTest\JesperFormAppTest\obj\Debug\JesperFormAppTest.csproj.GenerateResource.cache
+C:\Users\Jesper\source\repos\JesperFormAppTest\JesperFormAppTest\obj\Debug\JesperFormAppTest.exe
+C:\Users\Jesper\source\repos\JesperFormAppTest\JesperFormAppTest\obj\Debug\JesperFormAppTest.pdb
+C:\Users\Jesper\source\repos\JesperFormAppTest\JesperFormAppTest\bin\Debug\JesperFormAppTest.pdb
